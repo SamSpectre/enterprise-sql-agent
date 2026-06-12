@@ -1,0 +1,11 @@
+langgraph
+langchain-core
+langchain-openai
+sqlalchemy
+psycopg2-binary
+polars
+pyarrow
+httpx
+rich
+streamlit
+python-dotenv
